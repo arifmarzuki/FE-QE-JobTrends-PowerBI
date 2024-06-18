@@ -1,7 +1,3 @@
-Certainly! Here's the revised content for the repository description:
-
----
-
 # FE-QE-JobTrends-PowerBI
 
 ### Overview
